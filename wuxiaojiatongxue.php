@@ -1,2 +1,3 @@
 <?php
-//查看PHP版本信息
+//查看PHP版本
+echo phpinfo();
